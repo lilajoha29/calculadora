@@ -19,7 +19,7 @@ function numeros(valor) {
 function operacion() {
     let opera = document.getElementById("result").value;
     if (opera == 0) {
-        document.getElementById("result").value = "sin operacion";
+        document.getElementById("result").value = "0";
     }
     else {
         document.getElementById("result").value = eval(opera);
