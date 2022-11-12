@@ -36,8 +36,14 @@ El despliege esta apto para ejecutarse
 https://cute-kringle-2e46b8.netlify.app/
 
 ## Imagen
-
+como se ve en pc
 ![imagen](https://user-images.githubusercontent.com/88119236/201458625-9cf9ccf0-c9a8-402b-accc-53bce1436bdf.png)
+como se ve en celular
+![imagen](https://user-images.githubusercontent.com/88119236/201458674-b0c93b1f-8102-4a2a-89cd-848dfc90402d.png)
+como se ve en tablet
+![imagen](https://user-images.githubusercontent.com/88119236/201458765-80d4f8bf-3a8c-4f3a-b999-482232577656.png)
+
+
 
 ## Authors✒️
 
