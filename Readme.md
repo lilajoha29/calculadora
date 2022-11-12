@@ -35,6 +35,10 @@ Que cosas necesitas para instalar el software y como verla en el dispositivo loc
 El despliege esta apto para ejecutarse
 https://cute-kringle-2e46b8.netlify.app/
 
+## Imagen
+
+![imagen](https://user-images.githubusercontent.com/88119236/201458625-9cf9ccf0-c9a8-402b-accc-53bce1436bdf.png)
+
 ## Authors✒️
 
 - @lilajoha29 (https://github.com/lilajoha29)
