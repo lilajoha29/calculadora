@@ -23,7 +23,7 @@ Que cosas necesitas para instalar el software y como verla en el dispositivo loc
 `bash`
 -cd "nombre de el lugar donde quieres la carpeta"
 -mk "nombre de la carpeta"
--git clone xxxxxxxxxxxx
+-git clone https://github.com/lilajoha29/calculadora.git
 
 - Abrir el clon
 
@@ -33,7 +33,7 @@ Que cosas necesitas para instalar el software y como verla en el dispositivo loc
 ## Despliegue 📦
 
 El despliege esta apto para ejecutarse
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+https://cute-kringle-2e46b8.netlify.app/
 
 ## Authors✒️
 
